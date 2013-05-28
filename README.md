@@ -1,3 +1,3 @@
-FooCoin (FOO)
+NathanCoin (FOO)
 
 Blah, blah, blah.
